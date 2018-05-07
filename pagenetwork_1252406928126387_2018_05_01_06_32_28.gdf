@@ -1,0 +1,3 @@
+nodedef>name VARCHAR,username VARCHAR,label VARCHAR,category VARCHAR,post_activity FLOAT,fan_count INT,talking_about_count INT,users_can_post VARCHAR,link VARCHAR
+1252406928126387,hiddenvalleywilderness,"Hidden Valley Wilderness Retreat","Hiking Trail",0.01,658,217,yes,https://www.facebook.com/hiddenvalleywilderness/
+edgedef>node1 VARCHAR,node2 VARCHAR,directed BOOLEAN
